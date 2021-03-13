@@ -1,13 +1,13 @@
-# Cocos2dx Google Sign in with firebase in c++
-# Cocos2dx facebook Sign in with firebase in c++
-# Cocos2dx apple Sign in with firebase in c++
+# Cocos2dx Google Sign in, facebook Sign in and apple Sign in with firebase in c++
 
 Please feel free to contact and give a star 
 -----------------------------------------------
 
+login with facebook, google and apple  
+
 firebase c++ google, facebook and apple sign in in coco2dx 3.17
 
-Requirments : 
+**Requirments : **
 
 step 1: 
 ***
